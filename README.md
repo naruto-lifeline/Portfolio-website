@@ -74,10 +74,4 @@ Contributions are welcome! If you'd like to improve this portfolio, feel free to
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main repository.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this template according to your project's specifics. This README will make it easy for anyone visiting your repository to understand the project and how to use it.
